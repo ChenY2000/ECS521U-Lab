@@ -143,7 +143,7 @@ _Animation_
 
 
 ## Submission Instructions:
-### Deadline: 6/10/22 15:00
+### Deadline: 6/10/23 15:00
 The Submission Link is available under ASSESMENT INFORMATION Section of Module Page.
 
 ### General Instruction:

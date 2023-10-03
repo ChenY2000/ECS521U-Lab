@@ -93,7 +93,7 @@ Tip: The below source code will be inserted between "<script></script>" element.
 
 ### C. To Do Questions
 
-1. Open [html/ToDo.html](https://github.com/giussepi/ECS521-Interactive-Media-Design-and-Production-Labs-Work-2022-Lab-1/blob/main/html/ToDo.html) the file in your web browser (chrome/firefox/ie).
+1. Open [html/ToDo.html](https://github.com/ChenY2000/ECS521U-Lab1/tree/main/html/ToDo.html) the file in your web browser (chrome/firefox/ie).
 2. Open `js/ball.js` with your text editor.
 
 #### Canvas and JavaScript
